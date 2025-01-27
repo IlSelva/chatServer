@@ -1,0 +1,6 @@
+-sname chatServer
+
+-setcookie chatServer_cookie
+
++K true
++A30
